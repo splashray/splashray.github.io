@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid Red;
+  width: 100%;
+
+}
+
+Marquee{ 
+  color: Blue;}
+  p{
+    color: Blue;
+  }
+p{
+  text-align: center;
+}
+body {
+  background-color: hsla(120, 100%, 50%, 0.3);} 
